@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<style>
+    	h1{text-align:center;color:red;border:2px solid red;}
+        h3{text-align:center;color:red;border:1px solid red;}
+        h4{text-align:center;color:blue;}
+        p{text-align:center;}
+        b{text-align:center;color:red;}
+    </style>
+	<head>
+		<title>Daniel's Hobby</title>
+	</head>
+	<body>
+    	<div style="background-color:yellow">
+			<h1>My Hobby: Playing Harp</h1>
+        	<h4>By Daniel Lewis</h4>
+        </div>
+        <div>
+        	<h3>About the harp</h3>
+        	<p>Harps are one of the oldest musical instruments, attested in archaeology from 3500BC in Ancient Mesopotamia. The modern mid-size harp (called either the <b>Celtic harp</b>, <b>folk harp</b> or the <b>lever harp</b>) comes from the design used in the Celtic cultral revivals of the 19th century. Mine is made by Camac and has 32 strings, some nylon, some metal.		</p>
+        </div>
+        <div>
+        	<h3>How I got started</h3>
+            <p>I wanted to learn to play an instrument, and harp seemed easy to pick up. A good friend of my dad's is a harp player, and they encouraged my interest. Last summer, knowing I was planning on getting a harp, they generously gave me a new harp. I began lessons in October (the soonest I could find them)</p>
+        </div>
+	</body>
+</html>
