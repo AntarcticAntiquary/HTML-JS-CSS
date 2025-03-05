@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<link rel="stylesheet" href="style.css">
+	<head>
+		<title>Control Systems: Clockwork Home Automation</title>
+	</head>
+	<body style="background-color:#142740">
+		<div class="navbar">
+			<a href="MainPage.html">Home</a>
+			<a href="Shop.html">Shop</a>
+			<a href="Contact.html">Contact Us</a>
+		</div>
+		<div style="background-color:#143040">
+			<h1>Our Systems</h1>
+			<h4>Clockwork Home Automation Systems</h4>
+		</div>
+		<div>
+			<h2>Smart Lighting<h2>
+			<p>Imagine the convenience of controlling all your lights with only the touch of a button</p>
+		</div>
+		<div>
+			<h2>Smart Curtains</h2>
+			<p>Ideal for hard-to-reach areas, or even just to add that touch of luxury</p>
+		</div>
+		<div>
+			<h2>Smart Thermostat</h2>
+			<p>State-of-the-art technology to manage your home's temperature in the most efficient way possible</p>
+		</div>
+		<div>
+			<h2>Home Cinema</h2>
+			<p>Enjoy your favourite films, TV shows and sports with your very own high-quality cinema
+		</div>
+		<div>
+			<h2>Home Assistant</h2>
+			<p>One home assistant, to integrate all our other systems - controlled simply with voice commands</p>
+		</div>
+		<img src="clockwork.jpg" width="100%">
+	</body>
+</html>
