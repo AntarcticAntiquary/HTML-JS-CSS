@@ -1,0 +1,76 @@
+/*CSS for coursework project*/
+h1 {
+	text-align: center;
+	border: 2px solid #498FEA;
+	color: #498FEA;
+}
+h2 {
+	text-align: center;
+	border: 1px solid #498FEA;
+	color: #498FEA;
+}
+h3 {
+	text-align: center;
+	color: #3C75BF;
+}
+h4 {
+	text-align: center;
+	color: #3C75BF;
+}
+h5 {
+	text-align: center;
+	color: #3C75BF;
+}
+p {
+	text-align: center;
+	color: #3C75BF;
+}
+b {
+	text-align: center;
+	color: #498FEA;
+}
+em {
+	text-align: center;
+	color: #3C75BF;
+}
+header {
+    background-color: #143940;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+	color: #3C75BF;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #3C75BF;
+}
+nav ul li a:hover {
+    color: #498FEA;
+}
+.navbar {
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #21416A;
+    padding-top: 20px;
+}
+ 
+.navbar a {
+    display: block;
+    color: #3C75BF;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+ 
+.navbar a:hover {
+    background-color: #498FEA;
+}
