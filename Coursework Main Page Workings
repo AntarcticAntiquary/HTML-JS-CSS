@@ -1,28 +1,29 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Clockwork Home Automation Systems Homepage</title>
-  </head>
-  <style>
-  </style>
-  <body>
-    <div>
-      <h1>Clockwork Home Automation Systems</h1>
-      <h4>Project by Daniel Lewis</h4>
-    </div>
-    <div>
-      <h2>About us</h2>
-      <p><b>Clockwork Home Automation Systems</b> is a new company with the goal of providing top-notch, high-quality home automation services for clients at an affordable price. We take pride in our service's ease of use, safety and quality.
-    </div>
-    <div>
-      <nav>
-        <ul>
-          <li>Control Systems</li>
-          <li>Purchase Products</li>
-          <li>Customer Support</li>
-          <li>Contact Us</li>
-        </ul>
-      </nav>
-    </div>
-  </body>
+	<link rel="stylesheet" href="style.css">
+	<head>
+		<title>Clockwork Home Automation Systems Homepage</title>
+	</head>
+	<body style="background-color:#142740">
+		<div style="background-color:#143040">
+			<h1>Clockwork Home Automation Systems</h1>
+			<h4>Project by Daniel Lewis</h4>
+		</div>
+		<div>
+		<h2>About us</h2>
+		<p><b>Clockwork Home Automation Systems</b> is a new company with the goal of providing top-notch, high-quality home automation services for clients at an affordable price. We take pride in our service's ease of use, safety and quality.
+		</div>
+		<div>
+		<header>
+			<nav>
+				<ul>
+					<li><a href="ControlSystems.html">Control Systems</a></li>
+					<li><a href="Shop.html">Purchase Products</a></li>
+					<li><a href="Contact.html">Contact Us</a></li>
+				</ul>
+			</nav>
+		</header>
+		<img src="clockwork.jpg" width="100%">
+		</div>
+	</body>
 </html>
