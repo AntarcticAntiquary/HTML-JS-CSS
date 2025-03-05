@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<link rel="stylesheet" href="style.css">
+	<head>
+		<title>Contact Us: Clockwork Home Automation</title>
+	</head>
+	<body style="background-color:#142740">
+		<div class="navbar">
+			<a href="MainPage.html">Home</a>
+			<a href="ControlSystems.html">Control Systems</a>
+			<a href="Shop.html">Shop</a>
+		</div>
+		<div style="background-color:#143040">
+			<h1>Contact Us</h1>
+			<h4>Clockwork Home Automation Systems</h4>
+		</div>
+		<div>
+			<h2>Helplines:</h2>
+			<p>Our tech support desk can be reached at <em>dontemail@domain.ie</em></p>
+			<p>If you would like to return or cancel your services, please contact <em>imeanitreally@domain.ie</em></p>
+		</div>
+		<div style="text-align:center">
+			<h2>Frequently Asked Questions:</h2>
+			<b>Is home automation only for newer houses?</b>
+			<p>No, Clockwork systems can be installed in any house</p>
+			<b>Do Clockwork systems work with third-party devices?</b>
+			<p>Yes, Clockwork systems are integrated with a large variety of operating systems</p>
+			<b>What if Internet goes out?</b>
+			<p>The majority of Clockwork systems are set up to work well even without an online connection</p>
+		</div>
+		<img src="clockwork.jpg" width="100%">
+	</body>
+</html>
