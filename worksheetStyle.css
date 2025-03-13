@@ -1,0 +1,40 @@
+body { 
+    font-family: Arial, sans-serif; 
+} 
+ 
+.navbar { 
+    width: 200px; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    background-color: #333; 
+    padding-top: 20px; 
+} 
+ 
+.navbar a { 
+    display: block; 
+    color: white; 
+    padding: 14px 20px; 
+    text-decoration: none; 
+} 
+ 
+.navbar a:hover { 
+    background-color: #575757; 
+} 
+ 
+.content { 
+    margin-left: 220px; 
+    padding: 20px; 
+} 
+
+.slideshow { 
+    position: relative; 
+    width: 100%; 
+    max-width: 500px; /* Adjust the max-width as needed */ 
+    margin: auto; 
+} 
+ 
+.slides { 
+    width: 100%; 
+    height: auto; 
+} 
